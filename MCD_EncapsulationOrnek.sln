@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCD_EncapsulationOrnek", "MCD_EncapsulationOrnek\MCD_EncapsulationOrnek.csproj", "{5AD1D519-F6BD-46A6-AC68-258F948667AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AD1D519-F6BD-46A6-AC68-258F948667AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD1D519-F6BD-46A6-AC68-258F948667AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD1D519-F6BD-46A6-AC68-258F948667AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD1D519-F6BD-46A6-AC68-258F948667AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E55D4F24-FA8D-4F6F-967F-71B2CC5C4C94}
+	EndGlobalSection
+EndGlobal
